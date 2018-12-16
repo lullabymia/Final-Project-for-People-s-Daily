@@ -6,8 +6,11 @@ How has China changed during the past ten years?
 ## Team members
 
 Yao Lan
-Zhang Huimin 
+
+Zhang Huimin
+
 Yang Lin 
+
 Jiang Weiqi 
 
 ## Background and motivation
