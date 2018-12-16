@@ -1,6 +1,6 @@
 ## Final-Project-for-People's-Daily
 * Title
-How China changed during the past ten years?
+How has China changed during the past ten years?
 * Team members
 Yao Lan
 Zhang Huimin 
